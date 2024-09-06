@@ -1,4 +1,5 @@
 # Hi there 👋
+## 🕺🏻 About me
 💻 I'm currently working as a software engineer for ajila AG<br>👯‍♂️ I'm working with my team Nova on various forms projects<br>🌱 I'm currently learning AI stuff, software architecture and full-stack development (Angular / Spring Boot)<br>💬 Ask me about AI topics<br>🤣 I don't like computer science jokes - not one bit!<br>
 
 ## 💻 Tech Stack:
